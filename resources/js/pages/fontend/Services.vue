@@ -7,7 +7,7 @@ import ServiceCard from '@/components/Servicecard.vue';
         <div class="my-10 mx-20">
             <div class="text-center flex flex-col justify-center items-center">
                 <h1 class="font-bold text-4xl uppercase">Services</h1>
-                <div class="h-1 bg-green-400 w-28 mt-px"></div>
+                <div class="h-1 bg-amber-400 w-28 mt-px"></div>
             </div> 
             <div class="grid grid-cols-3 gap-5 mt-10">
                 <ServiceCard/>

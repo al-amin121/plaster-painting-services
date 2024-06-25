@@ -35,6 +35,11 @@ const router = createRouter({
       component: () => import('@/pages/fontend/Aboutus.vue')
     },
     {
+      path: '/Service-Details',
+      name: 'Service-Details',
+      component: () => import('@/pages/fontend/ServiceDetails.vue')
+    },
+    {
       path: '/dashboard',
       name: 'dashboard',
       component: () => import('@/pages/Dashboard/Index.vue')

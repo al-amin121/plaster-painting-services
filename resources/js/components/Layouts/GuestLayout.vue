@@ -3,7 +3,7 @@
 import Footer from './Footer.vue';
 </script>
 <template>
-    <div class="w-full h-screen scroll-smooth">
+    <div class="w-full">
         <header>
             <Header/>
         </header>

@@ -20,7 +20,7 @@ import GuestLayout from '@/components/Layouts/GuestLayout.vue';
                 <div class="my-5">
                     <textarea rows="1" placeholder="Question" class="bg-gray-100 py-4 w-full border border-gray-200"></textarea>
                 </div>
-                <button class="text-white flex justify-center items-center py-2 px-5 text-base bg-green-400 font-normal">Submit Now</button>
+                <button class="text-white flex justify-center items-center py-2 px-5 text-base bg-amber-400 font-normal">Submit Now</button>
             </div>
         </div>
         <div class="my-10 mx-20 ">

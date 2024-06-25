@@ -7,7 +7,7 @@ import Portfolio from '@/components/PortfolioCard.vue';
         <div class="my-10 mx-20">
             <div class="text-center flex flex-col justify-center items-center ">
               <h1 class="font-bold text-4xl uppercase">Our Portfolio</h1>
-              <div class="h-1 bg-green-400 w-40 mt-px"></div>
+              <div class="h-1 bg-amber-400 w-40 mt-px"></div>
             </div> 
             <div class="flex justify-center items-center gap-5 mt-5 mx-10">
                 <button class="py-2 px-5  hover:bg-green-400 hover:text-white text-black rounded-md shadow-sm bg-gray-50 uppercase">All</button>
@@ -19,7 +19,7 @@ import Portfolio from '@/components/PortfolioCard.vue';
                 <button class="py-2 px-5  hover:bg-green-400 hover:text-white text-black rounded-md shadow-sm bg-gray-50 uppercase">door-frame</button>
                 <button class="py-2 px-5  hover:bg-green-400 hover:text-white text-black rounded-md shadow-sm bg-gray-50 uppercase">Grouting</button>
             </div>
-            <div class="grid grid-cols-3 gap-5 mx-20 my-10">
+            <div class="grid grid-cols-3 gap-5 mx-20 my-10 ">
               <Portfolio/>
               <Portfolio/>
               <Portfolio/>

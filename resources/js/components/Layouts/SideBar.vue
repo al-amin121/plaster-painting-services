@@ -1,6 +1,6 @@
 <script setup>
 const props = defineProps({
-        text: {
+        text:{
             type: Boolean,
             default: false
         }

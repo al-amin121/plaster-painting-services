@@ -5,8 +5,7 @@ import AppLayout from '@/components/Layouts/AppLayout.vue';
 import  VSelect  from "vue-select";
 import "vue-select/dist/vue-select.css";
 import 'flowbite';
-
-
+import '../../node_modules/flowbite-vue/dist/index.css'
 import App from './App.vue'
 import router from './router'
 
